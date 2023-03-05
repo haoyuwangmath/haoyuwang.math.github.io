@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a third-year PhD student in mathematics at Yale, fortuantely advised by [Prof. Yihong Wu](http://www.stat.yale.edu/~yw562/). Prior to Yale, I was at the Courant Institute of Mathematical Sciences and mentored by [Prof. Paul Bourgade](https://cims.nyu.edu/~bourgade/).
+I am a third-year PhD student in mathematics at Yale University, fortuantely advised by [Prof. Yihong Wu](http://www.stat.yale.edu/~yw562/). Prior to Yale, I was at the Courant Institute of Mathematical Sciences and mentored by [Prof. Paul Bourgade](https://cims.nyu.edu/~bourgade/).
 
 Email: haoyu [dot] wang [at] yale [dot] edu
 
@@ -22,6 +22,7 @@ Research Interests
   <li> Probability </li>
   <li> Deep learning theory </li>  
 </ul>
+I am particularly interested in random matrix theory and its applications.
 
 
 Publications
