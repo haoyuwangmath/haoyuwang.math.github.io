@@ -8,6 +8,46 @@ redirect_from:
   - /about.html
 ---
 
+I am a third-year PhD student in mathematics at Yale University, fortuantely advised by [Prof. Yihong Wu](http://www.stat.yale.edu/~yw562/). Prior to Yale, I was at the Courant Institute of Mathematical Sciences, where I was lucky to be advised by [Prof. Paul Bourgade](https://cims.nyu.edu/~bourgade/).
+
+Email: haoyu.wang@yale.edu
+
+Research Interests
+=====
+High-dimensional statistics
+Probability
+Deep learning theory
+
+
+
+
+Publications
+======
+<ol>
+  
+  <li>
+    [Quantitative Universality for the Largest Eigenvalue of Sample Covariance Matrices](https://arxiv.org/abs/1912.05473)
+    **Haoyu Wang**
+    To appear in Annals of Applied Probability, 2022+
+  <\li>
+  
+  <li>
+    [Random Graph Matching in Geometric Models: the Case of Complete Graphs](https://proceedings.mlr.press/v178/wang22a.html)
+    **Haoyu Wang**, Yihong Wu, Jiaming Xu, Israel Yolou
+  </li>
+  
+  <li>
+    [Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions](https://arxiv.org/abs/2209.03999)
+    **Haoyu Wang**, Jiaheng Wei, Zhenyuan Zhang
+    Under review
+   </li>
+  
+  
+  
+  
+
+</ol>
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
