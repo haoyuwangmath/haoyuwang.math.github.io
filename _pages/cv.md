@@ -36,12 +36,12 @@ Talks
   
 Teaching
 ======
-Yale
+**Yale**
 * Instructor: Calculus 2
 * Teaching Fellow: Calculus 3, Discrete mathematics, Real analysis
 * Grader: Ordinary differential equations, Partial differential equations, Analysis
 
-Courant Institute
+**New York University**
 * Recitation Leader: Calculus 1
 * Grader: Calculus of variations, Differential geometry
   
