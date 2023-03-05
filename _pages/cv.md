@@ -11,49 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mathematics, Yale University, 2025 (expected)
+* M.S. in Mathematics, New York University, 2020
+* B.S. in Mathematics, Xi'an Jiaotong University, 2018
+  <br> **Special Class for the Gifted Young**
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Honors and Awards
+=====
+* Gold Medal, The 9th International Congress of Chinese Mathematicians Best Thesis Award, 2022
+* Best Math Master's Thesis Prize, New York University, 2020
 
-Publications
+
+Service
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Journal Review: Annals of Applied Probability, Communications in Mathematical Physics, Electronic Journal of Probability, IEEE Transactions on Information Theory, IEEE Transactions on Image Processing
+
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* INFORMS Annual Meeting 2022, "Random Graph Matching in Geometric Models"
+* COLT 2022, "Random Graph Matching in Geometric Models"  
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Yale
+* Instructor: Calculus 2
+* Teaching Fellow: Calculus 3, Discrete mathematics, Real analysis
+* Grader: Ordinary differential equations, Partial differential equations, Analysis
+
+Courant Institute
+* Recitation Leader: Calculus 1
+* Grader: Calculus of variations, Differential geometry
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
