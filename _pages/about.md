@@ -18,9 +18,8 @@ Email: haoyu [dot] wang [at] yale [dot] edu
 Research Interests
 =====
 <ul>
-  <li> High-dimensional statistics </li>
   <li> Probability </li>
-  <li> Deep learning theory </li>  
+  <li> High-dimensional statistics </li>
 </ul>
 I am particularly interested in random matrix theory and its applications.
 
@@ -38,7 +37,7 @@ Publications
   <li>
     <a href="https://arxiv.org/abs/2202.10662"> Random Graph Matching in Geometric Models: the Case of Complete Graphs </a>
     <br> <b>Haoyu Wang</b>, Yihong Wu, Jiaming Xu, Israel Yolou
-    <br> Conference on Learning Theory (COLT), 2022
+    <br> COLT, 2022
   </li>
   
   <li>
