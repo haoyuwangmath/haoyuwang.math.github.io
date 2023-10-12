@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a third-year PhD student in mathematics at Yale University, fortuantely advised by [Prof. Yihong Wu](http://www.stat.yale.edu/~yw562/). Prior to Yale, I was at the Courant Institute of Mathematical Sciences and mentored by [Prof. Paul Bourgade](https://cims.nyu.edu/~bourgade/).
+I am a fourth-year PhD student in mathematics at Yale University, fortuantely advised by [Prof. Yihong Wu](http://www.stat.yale.edu/~yw562/). Prior to Yale, I was at the Courant Institute of Mathematical Sciences and mentored by [Prof. Paul Bourgade](https://cims.nyu.edu/~bourgade/).
 
 Email: haoyu [dot] wang [at] yale [dot] edu
 
@@ -37,7 +37,7 @@ Publications
   <li>
     <a href="https://arxiv.org/abs/2202.10662"> Random Graph Matching in Geometric Models: the Case of Complete Graphs </a>
     <br> <b>Haoyu Wang</b>, Yihong Wu, Jiaming Xu, Israel Yolou
-    <br> COLT, 2022
+    <br> Conference on Learning Theory (COLT), 2022
   </li>
   
   <li>
@@ -55,6 +55,12 @@ Publications
   <li>
     <a href="https://arxiv.org/abs/2212.14531"> Resampling Sensitivity of High-Dimensional PCA </a>
     <br> <b>Haoyu Wang</b>
+    <br> In submission, 2023+
+  </li>
+
+  <li>
+    <a href="https://arxiv.org/abs/2307.12870"> A note on maximal operators for the Schrodinger equationon T1 </a>
+    <br> Yuqiu Fu, Kevin Ren, <b>Haoyu Wang</b>
     <br> In submission, 2023+
   </li>
   
