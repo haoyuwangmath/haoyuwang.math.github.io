@@ -31,7 +31,7 @@ Publications
   <li>
     <a href="https://arxiv.org/abs/1912.05473"> Quantitative Universality for the Largest Eigenvalue of Sample Covariance Matrices </a>
     <br> <b>Haoyu Wang</b>
-    <br> To appear in Annals of Applied Probability, 2022+
+    <br> To appear in Annals of Applied Probability, 2024+
   </li>
   
   <li>
