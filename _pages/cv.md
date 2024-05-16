@@ -25,7 +25,7 @@ Honors and Awards
 
 Service
 ======
-Journal Review: Annals of Applied Probability, Communications in Mathematical Physics, Electronic Journal of Probability, IEEE Transactions on Information Theory, IEEE Transactions on Image Processing
+Journal Review: Annals of Applied Probability, Communications in Mathematical Physics, Electronic Journal of Probability, IEEE Transactions on Information Theory, IEEE Transactions on Image Processing, IEEE Transactions on Signal Processing
 
   
 Talks
