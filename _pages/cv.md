@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, Yale University, 2025 (expected)
+* Ph.D in Mathematics, Yale University, 2026 (expected)
 * M.S. in Mathematics, New York University, 2020
 * B.S. in Mathematics, Xi'an Jiaotong University, 2018
   <br> **Special Class for the Gifted Young**
