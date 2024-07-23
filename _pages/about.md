@@ -31,7 +31,7 @@ Publications
   <li>
     <a href="https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-3/Quantitative-universality-for-the-largest-eigenvalue-of-sample-covariance-matrices/10.1214/22-AAP1910.short"> Quantitative Universality for the Largest Eigenvalue of Sample Covariance Matrices </a>
     <br> <b>Haoyu Wang</b>
-    <br> The Annals of Applied Probability 34, no. 3 (2024): 2539-2565.
+    <br> The Annals of Applied Probability 34, no. 3 (2024).
   </li>
   
   <li>
