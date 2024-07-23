@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a fourth-year PhD student in mathematics at Yale University, fortuantely advised by [Prof. Yihong Wu](http://www.stat.yale.edu/~yw562/). Prior to Yale, I was at the Courant Institute of Mathematical Sciences and mentored by [Prof. Paul Bourgade](https://cims.nyu.edu/~bourgade/).
+I am a fifth-year PhD student in mathematics at Yale University, fortuantely advised by [Prof. Yihong Wu](http://www.stat.yale.edu/~yw562/). Prior to Yale, I was at the Courant Institute of Mathematical Sciences and mentored by [Prof. Paul Bourgade](https://cims.nyu.edu/~bourgade/).
 
 Email: haoyu [dot] wang [at] yale [dot] edu
 
@@ -29,9 +29,9 @@ Publications
 <ul>
   
   <li>
-    <a href="https://arxiv.org/abs/1912.05473"> Quantitative Universality for the Largest Eigenvalue of Sample Covariance Matrices </a>
+    <a href="https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-3/Quantitative-universality-for-the-largest-eigenvalue-of-sample-covariance-matrices/10.1214/22-AAP1910.short"> Quantitative Universality for the Largest Eigenvalue of Sample Covariance Matrices </a>
     <br> <b>Haoyu Wang</b>
-    <br> To appear in Annals of Applied Probability, 2024+
+    <br> The Annals of Applied Probability 34, no. 3 (2024): 2539-2565.
   </li>
   
   <li>
@@ -39,13 +39,19 @@ Publications
     <br> <b>Haoyu Wang</b>, Yihong Wu, Jiaming Xu, Israel Yolou
     <br> Conference on Learning Theory (COLT), 2022
   </li>
-  
+
   <li>
-    <a href="https://arxiv.org/abs/2209.03999"> Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions </a>
-    <br> <b>Haoyu Wang</b>, Jiaheng Wei, Zhenyuan Zhang
-    <br> In submission, 2022+
+    Automatic Dataset Construction (ADC): Sample Collection, Data Curation, and Beyond
+    <br> (Joint with Minghao Liu, Zonglin Di, Jiaheng Wei, et al)
+    <br> Under review at Neurips 2024, available upon request
   </li>
-  
+
+  <li>
+    <a href="https://arxiv.org/abs/2212.14531"> Resampling Sensitivity of High-Dimensional PCA </a>
+    <br> <b>Haoyu Wang</b>
+    <br> In submission, 2023+
+  </li>
+
   <li>
     <a href="https://arxiv.org/abs/2211.03975"> Optimal Smoothed Analysis and Quantitative Universality for the Smallest Singular Value of Random Matrices </a>
     <br> <b>Haoyu Wang</b>
@@ -53,9 +59,9 @@ Publications
   </li>
   
   <li>
-    <a href="https://arxiv.org/abs/2212.14531"> Resampling Sensitivity of High-Dimensional PCA </a>
-    <br> <b>Haoyu Wang</b>
-    <br> In submission, 2023+
+    <a href="https://arxiv.org/abs/2209.03999"> Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions </a>
+    <br> <b>Haoyu Wang</b>, Jiaheng Wei, Zhenyuan Zhang
+    <br> In submission, 2022+
   </li>
 
   <li>
