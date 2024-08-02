@@ -41,7 +41,7 @@ Publications
   </li>
 
   <li>
-    <a href="haoyuwangmath.github.io/files/full_paper_w_supp.pdf"> Automatic Dataset Construction (ADC): Sample Collection, Data Curation, and Beyond </a>
+    <a href="https://haoyuwangmath.github.io/files/full_paper_w_supp.pdf"> Automatic Dataset Construction (ADC): Sample Collection, Data Curation, and Beyond </a>
     <br> (Joint with Minghao Liu, Zonglin Di, Jiaheng Wei, et al)
     <br> Under review at Neurips 2024, available upon request
   </li>
