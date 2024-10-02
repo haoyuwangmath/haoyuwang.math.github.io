@@ -43,9 +43,14 @@ Publications
   <li>
     <a href="http://haoyuwangmath.github.io/files/full_paper_w_supp.pdf"> Automatic Dataset Construction (ADC): Sample Collection, Data Curation, and Beyond </a>
     <br> (Joint with Minghao Liu, Zonglin Di, Jiaheng Wei, et al)
-    <br> Under review at Neurips 2024, available upon request
+    <br> Under review at ICLR 2025, code available upon request
   </li>
 
+  <li>
+    Optimal Estimation of High-Dimensional Empirical-Bayes Regression
+    <br> <b>Haoyu Wang</b>, Yandi Shen, Yihong Wu
+    <br> working paper, avaiable upon request, 2024
+  
   <li>
     <a href="https://arxiv.org/abs/2212.14531"> Resampling Sensitivity of High-Dimensional PCA </a>
     <br> <b>Haoyu Wang</b>
