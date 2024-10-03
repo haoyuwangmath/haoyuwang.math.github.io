@@ -20,8 +20,9 @@ Research Interests
 <ul>
   <li> Probability </li>
   <li> High-dimensional statistics </li>
+  <li> Statistical learning</li>
 </ul>
-I am particularly interested in random matrix theory and its applications.
+I am particularly interested in random matrix theory and graph learning/inference. Recently, I start my interest in large language models.
 
 
 Publications
@@ -52,7 +53,7 @@ Publications
     <br> working paper, avaiable upon request, 2024
   
   <li>
-    <a href="https://arxiv.org/abs/2212.14531"> Resampling Sensitivity of High-Dimensional PCA </a>
+    <a href="http://haoyuwangmath.github.io/files/Sensitivity_PCA_Alignment.pdf"> Resampling Sensitivity of High-Dimensional PCA </a>
     <br> <b>Haoyu Wang</b>
     <br> In submission, 2023+
   </li>
@@ -64,7 +65,7 @@ Publications
   </li>
   
   <li>
-    <a href="https://arxiv.org/abs/2209.03999"> Consensus on Dynamic Stochastic Block Models: Fast Convergence and Phase Transitions </a>
+    <a href="http://haoyuwangmath.github.io/files/MajoritySBM.pdf"> Learning Consensus via Majority Vote on Dynamic Community Networks </a>
     <br> <b>Haoyu Wang</b>, Jiaheng Wei, Zhenyuan Zhang
     <br> In submission, 2022+
   </li>
@@ -78,3 +79,12 @@ Publications
 </ul>
 
 
+Projects
+=========
+<ul>
+  <li>
+    <a href="https://github.com/haoyuwangmath/graph_matching_deanonymization"> Social Network De-anonymization via GNN Graph Matching </a>
+    <br> <b>Summary</b>: We proposed statistical and GNN-based machine learning algorithms to identify same users between different anonymized social networks based on graph topological information
+    <br> <b>Language and Tools</b>: Python, PyTorch, NumPy, SciPy
+  </li>
+</ul>
