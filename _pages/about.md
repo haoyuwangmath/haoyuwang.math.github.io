@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a fifth-year PhD student in mathematics at Yale University, fortuantely advised by [Prof. Yihong Wu](http://www.stat.yale.edu/~yw562/). Prior to Yale, I was at the Courant Institute of Mathematical Sciences and mentored by [Prof. Paul Bourgade](https://cims.nyu.edu/~bourgade/).
+I am a fifth-year PhD student in mathematics at Yale University, fortunately advised by [Prof. Yihong Wu](http://www.stat.yale.edu/~yw562/). Prior to Yale, I was at the Courant Institute of Mathematical Sciences and mentored by [Prof. Paul Bourgade](https://cims.nyu.edu/~bourgade/).
 
 Email: haoyu [dot] wang [at] yale [dot] edu
 
@@ -50,7 +50,8 @@ Publications
   <li>
     Optimal Estimation of High-Dimensional Empirical-Bayes Regression
     <br> <b>Haoyu Wang</b>, Yandi Shen, Yihong Wu
-    <br> working paper, avaiable upon request, 2024
+    <br> working paper, available upon request, 2024
+  </li>
   
   <li>
     <a href="http://haoyuwangmath.github.io/files/Sensitivity_PCA_Alignment.pdf"> Resampling Sensitivity of High-Dimensional PCA </a>
